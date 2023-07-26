@@ -8,6 +8,8 @@ Gil Guminski @ <a href="https://www.artstation.com/gilguminski" target="_blank">
 
 ### Simple Triplanar Texturer for PBR Material
 
+![Simple Triplanar Texturer](https://github.com/Gil-1/SubstanceDesignerTools/assets/11734754/af408b1b-190f-44d1-a470-1f3ad86d7055)
+
 Texture quickly an object by using Tri Planar projection.
 To work it require the baked Vertex Position & World Space Normal of the asset you are trying to texture.
 The outputs are Base Color, Normal, Roughness & Metallic the outputs are customizable by defining shaders values for these.
