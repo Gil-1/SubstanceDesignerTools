@@ -6,13 +6,13 @@ Gil Guminski @ <a href="https://www.artstation.com/gilguminski" target="_blank">
 
 ## SBS List
 
-### Simple Triplanar Texturer
+### Simple Triplanar Texturer for PBR Material
 
 Texture quickly an object by using Tri Planar projection.
 To work it require the baked Vertex Position & World Space Normal of the asset you are trying to texture.
 The outputs are Base Color, Normal, Roughness & Metallic the outputs are customizable by defining shaders values for these.
 
-Complete explication & demo available on Artstation
+Complete explication & demo available on <a href="https://www.artstation.com/artwork/49kZkq" target="_blank">Artstation tool's page</a>
 
 ## Credits
 
